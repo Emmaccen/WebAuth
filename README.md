@@ -15,7 +15,7 @@ This is a demo project to showcase the use of the Web Authentication API (WebAut
 
 ## Introduction
 
-Web Authentication (WebAuthn) is a web standard for strong authentication, using public key cryptography instead of passwords. This demo project demonstrates the registration and login processes using WebAuthn, with the backend logic simulated in the frontend code.
+Web Authentication (WebAuthn) is a web standard for strong authentication, using [public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) instead of passwords. This demo project demonstrates the registration and login processes using WebAuthn, with the backend logic simulated in the frontend code.
 
 ## Features
 
@@ -118,6 +118,13 @@ webAuth/
 ## Contributing
 
 Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
+
+## Resources
+* [Passwordless login with passkeys](https://developers.google.com/identity/passkeys/)
+* [Web Authentication API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API)
+* [Create a passkey for passwordless logins](https://web.dev/articles/passkey-registration)
+* [Sign in with a passkey through form autofill](https://web.dev/articles/passkey-form-autofill)
+* [Frequently asked questions (FAQ)](https://developers.google.com/identity/passkeys/faq)
 
 ## License
 
